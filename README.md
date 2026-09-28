@@ -2,7 +2,7 @@
 
 
 
-
+A passionate mechatronics engineer , specializing in editing and motion graphics and 3d modeling , He has passion for learning robotics , embedded systems , and more , but the most one is Linux , He Keeps looking forward .
 
 
 
