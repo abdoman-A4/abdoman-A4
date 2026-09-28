@@ -1,8 +1,10 @@
 <img width="735" height="245" alt="download (3)" src="https://github.com/user-attachments/assets/e5178041-efa2-4e8a-bec4-cff1c06df02a" />
 
 
-
-A passionate mechatronics engineer , specializing in editing and motion graphics and 3d modeling , He has passion for learning robotics , embedded systems , and more , but the most one is Linux , He Keeps looking forward .
+- Abdalrhman Abdorabeh 
+- Mechatronics Engineer
+- Keep looking forward
+A passionate mechatronics engineer , specializing in editing and motion graphics and 3d modeling , passion for learning robotics , embedded systems , and more , but the most one is Linux .
 
 
 
